@@ -1,4 +1,4 @@
-# Success_Academy
+# Terraform
 
 The following Terraform components will create/deploy services to AWS Lambda, IAM, S3, SES and Route 53.
 
